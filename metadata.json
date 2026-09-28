@@ -1,0 +1,6 @@
+{
+  "name": "Romano-net Browser",
+  "description": "A modern, AI-powered web browser interface that utilizes Gemini Search Grounding to provide summarized web results and source navigation. Features a simulated browser environment with tabs, history, and project file visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
