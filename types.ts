@@ -22,7 +22,6 @@ export interface Tab {
   status: TabStatus;
   content: SearchResult | null;
   timestamp: number;
-  errorMessage?: string;
 }
 
 export interface HistoryItem {
